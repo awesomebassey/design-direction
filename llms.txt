@@ -1,0 +1,33 @@
+# design-direction
+
+`design-direction` is a portable design skill for AI coding agents.
+
+Canonical instructions:
+- skill.md
+
+Installable Codex entrypoint:
+- SKILL.md
+
+Task prompts:
+- prompts/design-direction.md
+- prompts/design-review.md
+- prompts/break-ui.md
+- prompts/mobile-native.md
+- prompts/motion.md
+
+Reference library:
+- references/inspiration-sources.md
+- references/component-sources.md
+- references/design-heuristics.md
+- references/motion-principles.md
+- references/mobile-native.md
+- references/qa-checklist.md
+
+Contribution workflow:
+- CONTRIBUTING.md
+- GOVERNANCE.md
+- .github/ISSUE_TEMPLATE/add-reference.md
+- .github/ISSUE_TEMPLATE/correction.md
+
+Use the skill for product UI design, implementation guidance, design critique, motion decisions, mobile web polish, component-library selection, and UI stress testing.
+
